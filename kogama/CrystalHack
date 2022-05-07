@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name				        Kogama Crystal
+// @run-at			        document-start
+// @version			        1.0
+// @description	    
+// @author			        HenryPierre#4063
+// @match				        https://www.kogama.com/page/webgl-frame/*
+// @match				        https://kogama.com.br/page/webgl-frame/*
+// @match				        https://friends.kogama.com/page/webgl-frame/*
+// @require             https://raw.githubusercontent.com/SylumTeam-KoGaMa/KoGaMa-Cheat-Worker/main/source.js
+// @require             https://pastebin.com/raw/SfNPAcsc
+// @grant				        none
+// ==/UserScript==
